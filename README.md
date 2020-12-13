@@ -10,4 +10,5 @@ khodahafez
 ey baba
 man nemidoonam
 ba man sokhan bego
+ey vay
 ```
